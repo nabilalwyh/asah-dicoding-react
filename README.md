@@ -19,5 +19,5 @@ Program Studi Independen Bersertifikat - Kampus Berdampak Mandiri, yang terdiri 
 # Result
 | **No.** | **Course**                                    | **Date**    | **Certificate Link**                                                                             |
 |---------|-----------------------------------------------|-------------|--------------------------------------------------------------------------------------------------|
-| 1       | Belajar Dasar Pemrograman Web                 | 08-19-2025  | [click here](https://www.dicoding.com/certificates/QLZ937WM2Z5D)                                 |
+| 1       | Belajar Dasar Pemrograman Web                 | 08-19-2025  | [click here](https://www.dicoding.com/certificates/QLZ937WM2Z5D)                            |
 
