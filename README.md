@@ -12,9 +12,9 @@ Program Studi Independen Bersertifikat - Kampus Berdampak Mandiri, yang terdiri 
 - [] [Belajar Back-End Pemula dengan JavaScript](https://www.dicoding.com/academies/261)
 - [] [Belajar Fundamental Back-End dengan JavaScript](https://www.dicoding.com/academies/271)
 
-# Submission 
-* Belajar Dasar Pemrograman Web [[click here]]([https://github.com/nabilalwyh/belajar-dasar-pemrogramman-web))
-* Belajar Dasar Pemrograman Javascript [[click here]]([https://github.com/nabilalwyh/belajar-dasar-pemrogramman-javascript))
+# Submission
+* Belajar Dasar Pemrograman Web [[click here]](https://github.com/nabilalwyh/belajar-dasar-pemrogramman-web)
+* Belajar Dasar Pemrograman Javascript [[click here]](https://github.com/nabilalwyh/belajar-dasar-pemrogramman-javascript)
 
 
 # Result
