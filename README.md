@@ -3,7 +3,7 @@ Program Studi Independen Bersertifikat - Kampus Berdampak Mandiri, yang terdiri 
 
 # Modul Dicoding 
 - [x] [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123)
-- [] [Belajar Dasar Pemrograman JavaScript)](https://www.dicoding.com/academies/256)
+- [x] [Belajar Dasar Pemrograman JavaScript)](https://www.dicoding.com/academies/256)
 - [] [Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/academies/315)
 - [] [Belajar Membuat Aplikasi Web dengan React](https://www.dicoding.com/academies/403)
 - [] [Belajar Fundamental Aplikasi Web dengan React](https://www.dicoding.com/academies/413)
@@ -19,5 +19,6 @@ Program Studi Independen Bersertifikat - Kampus Berdampak Mandiri, yang terdiri 
 # Result
 | **No.** | **Course**                                    | **Date**    | **Certificate Link**                                                                             |
 |---------|-----------------------------------------------|-------------|--------------------------------------------------------------------------------------------------|
-| 1       | Belajar Dasar Pemrograman Web                 | 08-19-2025  | [click here](https://www.dicoding.com/certificates/QLZ937WM2Z5D)                            |
+| 1       | Belajar Dasar Pemrograman Web                 | 08-19-2025  | [click here](https://www.dicoding.com/certificates/0LZ053EO3X65)                                 |
+| 2       | Belajar Dasar Pemrograman Javascript          | 08-24-2025  | [click here](https://www.dicoding.com/certificates/JMZVVG3VRZN9)                                 |
 
