@@ -4,7 +4,7 @@ Program Studi Independen Bersertifikat - Kampus Berdampak Mandiri, yang terdiri 
 # Modul Dicoding 
 - [x] [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123)
 - [x] [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/academies/256)
-- [] [Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/academies/315)
+- [x] [Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/academies/315)
 - [] [Belajar Membuat Aplikasi Web dengan React](https://www.dicoding.com/academies/403)
 - [] [Belajar Fundamental Aplikasi Web dengan React](https://www.dicoding.com/academies/413)
 - [x] [Belajar Dasar AI](https://www.dicoding.com/academies/653)
@@ -15,6 +15,7 @@ Program Studi Independen Bersertifikat - Kampus Berdampak Mandiri, yang terdiri 
 # Submission
 * Belajar Dasar Pemrograman Web [[click here]](https://github.com/nabilalwyh/belajar-dasar-pemrogramman-web)
 * Belajar Dasar Pemrograman Javascript [[click here]](https://github.com/nabilalwyh/belajar-dasar-pemrogramman-javascript)
+* Belajar Membuat Front-End Web untuk Pemula [[click here]](https://github.com/nabilalwyh/bookshelf-app-starter-project)
 
 
 # Result
@@ -22,4 +23,5 @@ Program Studi Independen Bersertifikat - Kampus Berdampak Mandiri, yang terdiri 
 |---------|-----------------------------------------------|-------------|--------------------------------------------------------------------------------------------------|
 | 1       | Belajar Dasar Pemrograman Web                 | 08-19-2025  | [click here](https://www.dicoding.com/certificates/0LZ053EO3X65)                                 |
 | 2       | Belajar Dasar Pemrograman Javascript          | 08-24-2025  | [click here](https://www.dicoding.com/certificates/JMZVVG3VRZN9)                                 |
+| 3       | Belajar Membuat Front-End Web untuk Pemula    | 08-24-2025  | [click here](https://www.dicoding.com/certificates/L4PQ263K2ZO1)                                 |
 
