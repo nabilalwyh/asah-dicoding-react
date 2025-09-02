@@ -22,7 +22,7 @@ Program Studi Independen Bersertifikat - Kampus Berdampak Mandiri, yang terdiri 
 |---------|-----------------------------------------------|-------------|--------------------------------------------------------------------------------------------------|
 | 1       | Belajar Dasar Pemrograman Web                 | 08-19-2025  | [click here](https://www.dicoding.com/certificates/0LZ053EO3X65)                                 |
 | 2       | Belajar Dasar Pemrograman Javascript          | 08-24-2025  | [click here](https://www.dicoding.com/certificates/JMZVVG3VRZN9)                                 |
-| 3       | Belajar Membuat Front-End Web untuk Pemula    | 08-24-2025  | [click here](https://www.dicoding.com/certificates/L4PQ263K2ZO1)                                 |
+| 3       | Belajar Membuat Front-End Web untuk Pemula    | 08-28-2025  | [click here](https://www.dicoding.com/certificates/L4PQ263K2ZO1)                                 |
 
 # ILT-RB
 ILT-RB (Instructor Led Training - React Backend) adalah salah satu agenda wajib dalam program Asah yang berfokus pada materi teknis seputar React dan backend, serta dibimbing langsung oleh seorang profesional di bidangnya.
