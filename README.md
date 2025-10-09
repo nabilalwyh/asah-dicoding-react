@@ -8,8 +8,8 @@ Program Studi Independen Bersertifikat - Kampus Berdampak Mandiri, yang terdiri 
 - [x] [Belajar Membuat Aplikasi Web dengan React](https://www.dicoding.com/academies/403)
 - [x] [Belajar Fundamental Aplikasi Web dengan React](https://www.dicoding.com/academies/413)
 - [x] [Belajar Dasar AI](https://www.dicoding.com/academies/653)
-- [] [Belajar Dasar Cloud dan Gen AI di AWS](https://www.dicoding.com/academies/251)
-- [] [Belajar Back-End Pemula dengan JavaScript](https://www.dicoding.com/academies/261)
+- [x] [Belajar Dasar Cloud dan Gen AI di AWS](https://www.dicoding.com/academies/251)
+- [x] [Belajar Back-End Pemula dengan JavaScript](https://www.dicoding.com/academies/261)
 - [] [Belajar Fundamental Back-End dengan JavaScript](https://www.dicoding.com/academies/271)
 
 # Submission
@@ -19,6 +19,7 @@ Program Studi Independen Bersertifikat - Kampus Berdampak Mandiri, yang terdiri 
 * Belajar Membuat Aplikasi Web dengan React [[click here]](https://github.com/nabilalwyh/personal-notes-v0)
 * Belajar Fundamental Aplikasi Web dengan React (Submission pertama) [[click here]](https://github.com/nabilalwyh/personal-notes-v1)
 * Belajar Fundamental Aplikasi Web dengan React (Submission kedua) [[click here]](https://github.com/nabilalwyh/personal-notes-v2)
+* Belajar Back-End Pemula dengan JavaScript [[click here]](https://github.com/nabilalwyh/BookshelfAPI-nabilaalawiyah)
 
 # Result
 | **No.** | **Course**                                    | **Date**    | **Certificate Link**                                                                             |
@@ -28,6 +29,7 @@ Program Studi Independen Bersertifikat - Kampus Berdampak Mandiri, yang terdiri 
 | 3       | Belajar Membuat Front-End Web untuk Pemula    | 08-28-2025  | [click here](https://www.dicoding.com/certificates/L4PQ263K2ZO1)                                 |
 | 4       | Belajar Membuat Aplikasi Web dengan React     | 09-06-2025  | [click here](https://www.dicoding.com/certificates/0LZ05G813X65)                                 |
 | 5       | Belajar Fundamental Aplikasi Web dengan React | 09-12-2025  | [click here](https://www.dicoding.com/certificates/1RXYQ6OEQZVM)                                 |
+| 6       | Belajar Back-End Pemula dengan JavaScript     | 10-09-2025  | [click here](https://www.dicoding.com/certificates/QLZ967JK7Z5D)                          |
 
 
 
