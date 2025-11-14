@@ -10,7 +10,7 @@ Program Studi Independen Bersertifikat - Kampus Berdampak Mandiri, yang terdiri 
 - [x] [Belajar Dasar AI](https://www.dicoding.com/academies/653)
 - [x] [Belajar Dasar Cloud dan Gen AI di AWS](https://www.dicoding.com/academies/251)
 - [x] [Belajar Back-End Pemula dengan JavaScript](https://www.dicoding.com/academies/261)
-- [] [Belajar Fundamental Back-End dengan JavaScript](https://www.dicoding.com/academies/271)
+- [x] [Belajar Fundamental Back-End dengan JavaScript](https://www.dicoding.com/academies/271)
 
 # Submission
 * Belajar Dasar Pemrograman Web [[click here]](https://github.com/nabilalwyh/belajar-dasar-pemrogramman-web)
@@ -29,7 +29,8 @@ Program Studi Independen Bersertifikat - Kampus Berdampak Mandiri, yang terdiri 
 | 3       | Belajar Membuat Front-End Web untuk Pemula    | 08-28-2025  | [click here](https://www.dicoding.com/certificates/L4PQ263K2ZO1)                                 |
 | 4       | Belajar Membuat Aplikasi Web dengan React     | 09-06-2025  | [click here](https://www.dicoding.com/certificates/0LZ05G813X65)                                 |
 | 5       | Belajar Fundamental Aplikasi Web dengan React | 09-12-2025  | [click here](https://www.dicoding.com/certificates/1RXYQ6OEQZVM)                                 |
-| 6       | Belajar Back-End Pemula dengan JavaScript     | 10-09-2025  | [click here](https://www.dicoding.com/certificates/QLZ967JK7Z5D)                          |
+| 6       | Belajar Back-End Pemula dengan JavaScript     | 10-09-2025  | [click here](https://www.dicoding.com/certificates/QLZ967JK7Z5D)                                 |
+| 7       | Belajar Back-End Pemula dengan JavaScript     | 11-14-2025  | [click here](https://www.dicoding.com/certificates/6RPNGOQN8Z2M)                                 |
 
 
 
